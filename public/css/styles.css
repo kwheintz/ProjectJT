@@ -17,3 +17,14 @@ input.new-item:focus {
 .edit {
   width: 100%;
 }
+
+.main-header {
+  width: 100%;
+  text-align: center;
+  height: 60px;
+  color: black;
+  background: silver;
+  border-radius: 5px;
+  padding-top: 12px;
+  font-size: 20px;
+}
